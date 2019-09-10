@@ -1,6 +1,6 @@
 def parrot(sound = "Squawk")
-  puts "I'm a parrot hear me #{sound} !"
-  "Squawk"
+   "I'm a parrot hear me #{sound} !"
+  
 end
 
  
